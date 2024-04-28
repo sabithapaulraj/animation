@@ -1,9 +1,10 @@
-# Ex.No: 11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
+# Ex.No: 11 Develop a application to add animations to ImageView like Move,blink,fade,rotate,zoom,slide and fade operations are perform in android studio.
 
 
 ## AIM:
 
-To develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio.
+To develop a application to add animation to imageview like Move,blink,fade,rotate,zoom,slide and fade operations are perform in android studio.
+
 
 ## EQUIPMENTS REQUIRED:
 
